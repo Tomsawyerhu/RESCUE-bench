@@ -6,7 +6,7 @@ Benchmark**. RESCUE-BENCH evaluates whether LLMs can understand evolving
 multi-party relational dynamics and use them for relation-sensitive emotional
 support decisions.
 
-![Overview of Relation-aware Multi-party Emotional Support](./assets/overview.pdf)
+![Overview of Relation-aware Multi-party Emotional Support](./assets/overview.png)
 
 The benchmark contains two groups of tasks:
 
