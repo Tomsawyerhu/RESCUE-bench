@@ -1,10 +1,12 @@
-# RESCUE-BENCH Evaluation Code
+# RESCUE-BENCH
 
 This repository contains the evaluation scripts for **RESCUE-BENCH:
 Relation-aware Emotional Support Conversation Understanding and Evaluation
 Benchmark**. RESCUE-BENCH evaluates whether LLMs can understand evolving
 multi-party relational dynamics and use them for relation-sensitive emotional
 support decisions.
+
+![Overview of Relation-aware Multi-party Emotional Support](./assets/overview.pdf)
 
 The benchmark contains two groups of tasks:
 
