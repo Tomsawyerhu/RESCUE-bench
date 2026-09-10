@@ -762,3 +762,16 @@ python task/evaluate_user_viewpoints.py \
 
 Use `--sample-ids-file` and `--limit-samples` for smoke tests before running the
 full benchmark.
+
+## Citation
+```
+@misc{hu2026rescuebenchrelationawaremultipartyemotional,
+      title={RESCUE-BENCH: Towards Relation-Aware Multi-Party Emotional Support Conversation Systems}, 
+      author={Haichuan Hu and Yang Xiao and Mingni Tang and Jiawen Duan and Quanjun Zhang and Congqing He and Hao Zhang and Jiashuo Wang and Johan F. Hoorn and Wenjie Li},
+      year={2026},
+      eprint={2609.09657},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2609.09657}, 
+}
+```
